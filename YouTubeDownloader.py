@@ -1,8 +1,8 @@
 """
 Created on Wed Sep 18 22:05:55 2019
 @author: difusao@gmail.com
+SO: Linux
 """
-
 import pytube
 import os
 import sys

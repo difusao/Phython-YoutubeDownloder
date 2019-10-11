@@ -1,7 +1,7 @@
 """
 Created on Fri Sep 20 22:19:19 2019
-
 @author: difusao@gmail.com
+SO: Linux
 """
 
 import pytube
